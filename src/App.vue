@@ -13,16 +13,15 @@
 </template>
 
 <script setup>
-import Navbar from './components/Navbar.vue';
-import Hero from './components/Hero.vue';
-import Sobre from './components/Sobre.vue';
-import Stacks from './components/Stacks.vue';
-import Projetos from './components/Projetos.vue';
-import Contato from './components/Contato.vue';
-import Foter from './components/Foter.vue';
+import Navbar from './components/Navbar.vue'
+import Hero from './components/Hero.vue'
+import Sobre from './components/Sobre.vue'
+import Stacks from './components/Stacks.vue'
+import Projetos from './components/Projetos.vue'
+import Contato from './components/Contato.vue'
+import Foter from './components/Foter.vue'
 </script>
 
-<style >
+<style>
 /* Ajuste para garantir que o conteúdo não fique atrás do cabeçalho */
-
 </style>

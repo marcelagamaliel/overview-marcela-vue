@@ -3,7 +3,8 @@
     <div class="max-w-3xl mx-auto text-center">
       <h2 class="text-3xl md:text-4xl font-bold text-indigo-600 mb-8">Entre em Contato</h2>
       <p class="mb-10 text-withe-600">
-        Tem alguma dúvida, ideia ou quer trabalhar comigo? Preencha o formulário abaixo e entrarei em contato!
+        Tem alguma dúvida, ideia ou quer trabalhar comigo? Preencha o formulário abaixo e entrarei
+        em contato!
       </p>
 
       <form @submit.prevent="enviarFormulario" class="grid gap-6 text-left">
