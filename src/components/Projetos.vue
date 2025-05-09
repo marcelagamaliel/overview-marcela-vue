@@ -50,14 +50,16 @@
 const projetos = [
   {
     titulo: 'Sistema de Pesquisa de Satisfação',
-    descricao: 'Aplicação Vue SPA que coleta feedback de usuários usando lógica condicional entre perguntas.',
+    descricao:
+      'Aplicação Vue SPA que coleta feedback de usuários usando lógica condicional entre perguntas.',
     tecnologias: ['Vue.js', 'Tailwind CSS', 'Pinia', 'Node.js'],
     github: 'https://github.com/seuusuario/pesquisa-satisfacao',
     link: 'https://seuprojeto.vercel.app',
   },
   {
     titulo: 'Portfólio Pessoal',
-    descricao: 'Portfólio moderno e responsivo criado com Vue e Tailwind, destacando meus projetos e habilidades.',
+    descricao:
+      'Portfólio moderno e responsivo criado com Vue e Tailwind, destacando meus projetos e habilidades.',
     tecnologias: ['Vue.js', 'Tailwind CSS'],
     github: 'https://github.com/seuusuario/portfolio',
     link: '',
